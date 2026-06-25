@@ -1,0 +1,381 @@
+id_venda,id_cliente,cidade,categoria_produto,valor_venda,data_venda
+1,CLI1693,Belo Horizonte,Eletrônico,1562.46,2023-12-03
+2,CLI3178,Florianópolis,Livros,465.07,2023-06-19
+3,CLI4460,Belo Horizonte,Vestuário,379.81,2023-01-22
+4,CLI2044,Florianópolis,Móvel,1149.71,2023-11-06
+5,CLI9279,Curitiba,Alimentos,241.8,2023-10-14
+6,CLI6421,São Paulo,Alimentos,244.41,2022-10-22
+7,CLI1307,Belo Horizonte,Vestuário,290.66,2023-09-15
+8,CLI7906,São Paulo,Vestuário,700.07,2023-08-24
+9,CLI4811,Curitiba,Vestuário,541.8,2023-12-17
+10,CLI3009,Porto Alegre,Móvel,817.95,2022-09-23
+11,CLI9866,Florianópolis,Alimentos,,2023-12-14
+12,CLI5264,Porto Alegre,Livros,273.16,2023-11-25
+13,CLI1987,Florianópolis,Móvel,1442.46,2022-10-28
+14,CLI6574,Curitiba,Livros,,2023-09-01
+15,CLI9935,Curitiba,Vestuário,422.8,2023-12-10
+16,CLI1520,Curitiba,Alimentos,184.1,2023-10-27
+17,CLI5169,Florianópolis,Livros,410.53,2022-02-10
+18,CLI6925,Curitiba,Livros,344.03,2023-04-19
+19,CLI5262,São Paulo,Móvel,1719.07,2023-02-08
+20,CLI7211,São Paulo,Vestuário,592.89,2023-03-24
+21,CLI3223,Porto Alegre,Vestuário,432.79,2023-12-15
+22,CLI7912,Curitiba,Eletrônico,2144.42,2023-02-27
+23,CLI6922,Porto Alegre,Eletrônico,1167.35,2023-02-07
+24,CLI8292,Porto Alegre,Móvel,666.16,2023-07-04
+25,CLI6692,Porto Alegre,Livros,247.24,2023-10-21
+26,CLI4515,Porto Alegre,Móvel,832.9,2023-09-21
+27,CLI6507,São Paulo,Móvel,1167.71,2022-12-20
+28,CLI8814,São Paulo,Livros,,2023-02-07
+29,CLI4388,São Paulo,Livros,322.67,2023-01-11
+30,CLI9094,Porto Alegre,Livros,226.63,2023-11-25
+31,CLI5892,São Paulo,Vestuário,662.02,2022-12-11
+32,CLI7941,Florianópolis,Alimentos,225.45,2023-07-14
+33,CLI7843,Belo Horizonte,Livros,209.88,2023-06-30
+34,CLI5169,Florianópolis,Alimentos,265.51,2023-12-24
+35,CLI2124,São Paulo,Eletrônico,2711.02,2023-04-29
+36,CLI7624,São Paulo,Vestuário,669.92,2023-03-26
+37,CLI7505,Belo Horizonte,Livros,227.19,2023-10-16
+38,CLI7211,São Paulo,Eletrônico,1860.71,2022-06-29
+39,CLI5938,Belo Horizonte,Vestuário,320.38,2023-11-27
+40,CLI8734,Florianópolis,Alimentos,158.62,2022-05-17
+41,CLI3275,Porto Alegre,Vestuário,469.68,2023-08-15
+42,CLI2130,Florianópolis,Vestuário,516.15,2022-01-12
+43,CLI8999,São Paulo,Alimentos,313.76,2023-09-09
+44,CLI7636,Belo Horizonte,Livros,171.45,2022-12-10
+45,CLI2679,Curitiba,Alimentos,221.48,2023-02-08
+46,CLI9725,Belo Horizonte,Livros,240.85,2023-09-13
+47,CLI9785,Curitiba,Alimentos,154.25,2023-09-01
+48,CLI9335,Porto Alegre,Móvel,952.52,2022-02-01
+49,CLI9335,Porto Alegre,Livros,246.15,2023-08-21
+50,CLI8814,São Paulo,Alimentos,340.74,2022-02-28
+51,CLI3178,Florianópolis,Móvel,997.24,2023-01-22
+52,CLI5938,Belo Horizonte,Alimentos,143.35,2023-09-17
+53,CLI4048,Porto Alegre,Livros,311.57,2023-04-29
+54,CLI9725,Belo Horizonte,Vestuário,328.82,2023-09-29
+55,CLI9882,Porto Alegre,Móvel,854.57,2023-10-15
+56,CLI9866,Florianópolis,Alimentos,214.74,2023-09-08
+57,CLI4527,Curitiba,Vestuário,326.8,2023-11-25
+58,CLI2424,Curitiba,Livros,274.28,2023-08-08
+59,CLI4527,Curitiba,Alimentos,154.99,2023-01-02
+60,CLI2679,Curitiba,Vestuário,583.66,2023-04-27
+61,CLI2584,Curitiba,Alimentos,122.71,2023-01-23
+62,CLI2679,Curitiba,Eletrônico,2086.66,2023-12-02
+63,CLI8359,Curitiba,Móvel,702.23,2023-04-27
+64,CLI1356,Florianópolis,Móvel,992.85,2022-01-09
+65,CLI1434,Curitiba,Vestuário,570.14,2022-10-02
+66,CLI1475,São Paulo,Vestuário,496.37,2023-09-11
+67,CLI6507,São Paulo,Vestuário,775.06,2023-02-25
+68,CLI7941,Florianópolis,Eletrônico,2545.66,2023-05-19
+69,CLI5471,São Paulo,Móvel,994.56,2023-01-14
+70,CLI4048,Porto Alegre,Alimentos,210.81,2022-03-31
+71,CLI8633,São Paulo,Móvel,1653.08,2023-07-11
+72,CLI6129,Belo Horizonte,Alimentos,98.15,2023-05-30
+73,CLI2341,São Paulo,Eletrônico,2485.22,2023-06-30
+74,CLI6692,Porto Alegre,Móvel,823.25,2023-11-07
+75,CLI2314,Florianópolis,Eletrônico,,2022-09-26
+76,CLI5133,São Paulo,Alimentos,272.16,2023-07-28
+77,CLI8657,São Paulo,Vestuário,764.63,2023-09-17
+78,CLI7275,São Paulo,Móvel,1925.43,2023-02-28
+79,CLI4527,Curitiba,Móvel,1237.62,2023-04-23
+80,CLI8033,Belo Horizonte,Vestuário,340.88,2023-03-24
+81,CLI8814,São Paulo,Alimentos,242.56,2023-08-31
+82,CLI2679,Curitiba,Móvel,869.03,2023-07-30
+83,CLI6363,São Paulo,Livros,387.23,2022-05-03
+84,CLI4582,Curitiba,Livros,359.41,2023-07-27
+85,CLI7505,Belo Horizonte,Eletrônico,1579.76,2023-04-14
+86,CLI7678,São Paulo,Alimentos,,2023-06-12
+87,CLI3223,São Paulo,Móvel,1414.52,2023-07-09
+88,CLI4467,São Paulo,Eletrônico,3140.42,2022-06-05
+89,CLI3223,Porto Alegre,Vestuário,407.23,2022-03-08
+90,CLI5012,Curitiba,Alimentos,148.68,2023-09-06
+91,CLI9935,Curitiba,Eletrônico,1762.84,2023-09-29
+92,CLI5471,São Paulo,Alimentos,196.25,2023-12-24
+93,CLI3828,Porto Alegre,Móvel,,2023-05-04
+94,CLI2130,Florianópolis,Alimentos,262.51,2022-12-10
+95,CLI4527,Curitiba,Livros,208.45,2023-08-05
+96,CLI7843,Belo Horizonte,Móvel,779.2,2023-01-25
+97,CLI2275,Belo Horizonte,Vestuário,264.48,2022-06-19
+98,CLI2887,Belo Horizonte,Vestuário,464.22,2023-07-17
+99,CLI1693,Belo Horizonte,Eletrônico,1155.05,2023-12-29
+100,CLI7487,Florianópolis,Móvel,1070.14,2023-12-23
+101,CLI8359,Curitiba,Eletrônico,1354.91,2023-02-06
+102,CLI3267,São Paulo,Móvel,1301.99,2023-04-21
+103,CLI1441,São Paulo,Eletrônico,2315.27,2023-09-09
+104,CLI8734,Florianópolis,Eletrônico,,2023-12-11
+105,CLI1424,Porto Alegre,Vestuário,495.27,2023-11-06
+106,CLI7626,Belo Horizonte,Eletrônico,1100.51,2023-03-30
+107,CLI7211,São Paulo,Eletrônico,1670.8,2023-11-26
+108,CLI1341,Belo Horizonte,Eletrônico,1343.71,2023-12-09
+109,CLI7887,Florianópolis,Alimentos,174.06,2023-10-07
+110,CLI5506,Curitiba,Livros,304.29,2023-07-09
+111,CLI1475,São Paulo,Vestuário,457.93,2022-10-13
+112,CLI9890,São Paulo,Móvel,1342.65,2023-06-24
+113,CLI5051,São Paulo,Eletrônico,2637.87,2022-07-10
+114,CLI3218,Florianópolis,Eletrônico,1678.17,2023-04-08
+115,CLI7626,Belo Horizonte,Vestuário,394.74,2022-04-10
+116,CLI1126,Belo Horizonte,Eletrônico,1622.15,2023-06-13
+117,CLI7340,Porto Alegre,Vestuário,355.13,2023-04-13
+118,CLI4611,Curitiba,Livros,,2023-01-30
+119,CLI1520,Curitiba,Livros,315.36,2022-06-02
+120,CLI7044,Porto Alegre,Livros,347.94,2023-03-28
+121,CLI6129,Belo Horizonte,Alimentos,184.69,2023-04-24
+122,CLI1106,Curitiba,Vestuário,552.97,2023-03-09
+123,CLI3948,Florianópolis,Móvel,1128.36,2023-06-13
+124,CLI2424,Curitiba,Vestuário,490.68,2023-05-02
+125,CLI8359,Curitiba,Vestuário,445.54,2023-02-13
+126,CLI9818,São Paulo,Vestuário,750.89,2023-04-30
+127,CLI3248,Belo Horizonte,Alimentos,190.98,2023-12-14
+128,CLI1742,Florianópolis,Alimentos,174.03,2023-06-03
+129,CLI3286,Curitiba,Móvel,725.74,2022-06-07
+130,CLI2965,Belo Horizonte,Livros,263.12,2022-03-15
+131,CLI5558,São Paulo,Móvel,1928.84,2023-05-22
+132,CLI9335,Porto Alegre,Alimentos,168.2,2023-04-15
+133,CLI7201,Curitiba,Vestuário,341.82,2023-08-21
+134,CLI7865,São Paulo,Livros,359.24,2023-09-26
+135,CLI7906,São Paulo,Alimentos,334.75,2023-05-04
+136,CLI7941,Florianópolis,Livros,389.16,2022-09-13
+137,CLI2679,Curitiba,Vestuário,355.76,2023-01-21
+138,CLI1434,Curitiba,Móvel,855.19,2023-05-16
+139,CLI8705,São Paulo,Livros,361.8,2023-01-28
+140,CLI2887,Belo Horizonte,Eletrônico,1038.24,2023-03-20
+141,CLI3248,Belo Horizonte,Vestuário,410.97,2023-07-11
+142,CLI2196,Florianópolis,Móvel,1202.39,2023-04-28
+143,CLI7678,São Paulo,Vestuário,815.25,2023-01-27
+144,CLI6635,Curitiba,Livros,388.91,2023-08-12
+145,CLI7624,São Paulo,Alimentos,326.92,2023-12-07
+146,CLI5133,São Paulo,Móvel,982.62,2023-02-08
+147,CLI3828,Porto Alegre,Eletrônico,1510.02,2023-11-24
+148,CLI5743,Belo Horizonte,Móvel,,2022-11-06
+149,CLI4582,Curitiba,Livros,,2023-11-15
+150,CLI1742,Florianópolis,Alimentos,224.74,2023-10-03
+151,CLI7487,Florianópolis,Eletrônico,2543.11,2023-11-28
+152,CLI9176,Porto Alegre,Alimentos,122.19,2023-10-26
+153,CLI7873,Curitiba,Vestuário,489.04,2022-11-16
+154,CLI2275,Belo Horizonte,Móvel,1051.91,2023-10-26
+155,CLI3878,Belo Horizonte,Móvel,678.46,2023-11-27
+156,CLI5264,Porto Alegre,Vestuário,367.6,2023-11-24
+157,CLI6635,Curitiba,Alimentos,155.3,2022-06-11
+158,CLI4467,São Paulo,Móvel,1240.06,2023-01-09
+159,CLI8532,Belo Horizonte,Móvel,748.51,2023-11-09
+160,CLI1520,Curitiba,Alimentos,224.24,2023-09-16
+161,CLI2424,Curitiba,Eletrônico,2180.73,2023-09-06
+162,CLI6763,São Paulo,Alimentos,297.41,2023-04-22
+163,CLI1441,São Paulo,Eletrônico,2516.91,2023-08-13
+164,CLI7232,São Paulo,Móvel,1614.68,2023-10-06
+165,CLI6574,Curitiba,Livros,288.64,2023-10-20
+166,CLI1441,São Paulo,Eletrônico,2291.35,2022-10-09
+167,CLI6363,São Paulo,Livros,437.27,2023-10-28
+168,CLI1508,São Paulo,Eletrônico,1773.75,2023-03-17
+169,CLI7865,São Paulo,Livros,385.62,2023-10-10
+170,CLI2314,Florianópolis,Vestuário,556.53,2022-10-22
+171,CLI3218,Florianópolis,Vestuário,566.3,2023-02-08
+172,CLI6733,São Paulo,Alimentos,298.78,2023-07-05
+173,CLI3286,Curitiba,Vestuário,392.74,2023-05-01
+174,CLI8633,São Paulo,Vestuário,555.37,2023-10-31
+175,CLI9279,Curitiba,Alimentos,137.19,2023-05-01
+176,CLI9279,Curitiba,Eletrônico,2170.82,2023-10-04
+177,CLI3126,Porto Alegre,Livros,192.42,2023-07-29
+178,CLI6529,São Paulo,Móvel,1740.18,2023-11-13
+179,CLI3547,Curitiba,Livros,258.19,2023-10-14
+180,CLI2679,Curitiba,Eletrônico,1169.33,2023-12-01
+181,CLI1317,São Paulo,Móvel,1488.07,2023-01-28
+182,CLI5288,Porto Alegre,Móvel,833.0,2023-03-18
+183,CLI2341,São Paulo,Livros,506.3,2022-05-19
+184,CLI1434,Curitiba,Móvel,1145.43,2023-05-14
+185,CLI8406,Porto Alegre,Alimentos,147.51,2023-12-20
+186,CLI2063,Porto Alegre,Livros,232.92,2023-12-29
+187,CLI5262,São Paulo,Vestuário,429.21,2023-12-25
+188,CLI9482,Porto Alegre,Livros,259.26,2022-02-11
+189,CLI6355,São Paulo,Alimentos,335.31,2023-11-30
+190,CLI3275,Porto Alegre,Móvel,915.5,2023-06-10
+191,CLI7941,Florianópolis,Livros,359.85,2023-08-02
+192,CLI2929,Porto Alegre,Alimentos,,2023-12-01
+193,CLI5186,Belo Horizonte,Alimentos,179.54,2022-11-13
+194,CLI2375,São Paulo,Livros,324.23,2022-12-13
+195,CLI2020,São Paulo,Alimentos,253.45,2023-02-02
+196,CLI8657,São Paulo,Alimentos,295.8,2022-06-03
+197,CLI7275,São Paulo,Eletrônico,2273.79,2022-11-21
+198,CLI2341,São Paulo,Alimentos,326.42,2022-10-24
+199,CLI5051,São Paulo,Livros,552.87,2023-08-08
+200,CLI4467,São Paulo,Eletrônico,2010.09,2023-03-11
+201,CLI2291,Curitiba,Vestuário,397.24,2023-02-05
+202,CLI3547,Curitiba,Livros,324.32,2023-10-24
+203,CLI4150,Curitiba,Alimentos,165.9,2023-02-19
+204,CLI1519,Florianópolis,Alimentos,161.5,2023-09-12
+205,CLI9149,Belo Horizonte,Móvel,648.05,2023-03-20
+206,CLI5558,São Paulo,Vestuário,716.92,2023-04-29
+207,CLI2988,Porto Alegre,Vestuário,319.83,2022-10-23
+208,CLI7883,São Paulo,Móvel,1079.86,2023-11-18
+209,CLI5757,Porto Alegre,Alimentos,139.43,2023-06-04
+210,CLI5938,Belo Horizonte,Livros,159.99,2023-09-17
+211,CLI5186,Belo Horizonte,Eletrônico,1597.27,2022-08-19
+212,CLI4388,São Paulo,Móvel,1509.41,2023-03-16
+213,CLI1126,Belo Horizonte,Livros,263.17,2023-02-18
+214,CLI3977,São Paulo,Móvel,,2023-10-17
+215,CLI2584,Curitiba,Eletrônico,1852.51,2023-10-11
+216,CLI6763,São Paulo,Livros,420.5,2022-07-07
+217,CLI8814,São Paulo,Livros,397.36,2023-07-09
+218,CLI6644,Florianópolis,Eletrônico,2023.42,2023-01-07
+219,CLI2988,Porto Alegre,Alimentos,114.6,2023-06-07
+220,CLI8657,Porto Alegre,Alimentos,177.37,2023-02-26
+221,CLI3828,Porto Alegre,Alimentos,132.87,2022-07-23
+222,CLI6881,Curitiba,Alimentos,162.46,2023-12-08
+223,CLI9890,São Paulo,Móvel,,2022-03-21
+224,CLI4257,Curitiba,Livros,283.93,2023-04-08
+225,CLI5333,Curitiba,Vestuário,300.18,2023-02-02
+226,CLI4515,Porto Alegre,Alimentos,139.81,2022-11-12
+227,CLI7865,São Paulo,Livros,504.54,2023-04-28
+228,CLI6236,Porto Alegre,Vestuário,421.47,2022-01-05
+229,CLI7626,Belo Horizonte,Vestuário,,2022-11-18
+230,CLI9890,São Paulo,Alimentos,299.67,2023-02-25
+231,CLI8657,Porto Alegre,Vestuário,496.19,2023-09-23
+232,CLI4460,Belo Horizonte,Móvel,705.82,2023-11-28
+233,CLI1520,Curitiba,Eletrônico,2051.87,2023-02-16
+234,CLI2124,São Paulo,Alimentos,288.72,2023-12-21
+235,CLI6697,Florianópolis,Livros,458.29,2023-02-01
+236,CLI6733,São Paulo,Livros,292.14,2023-04-24
+237,CLI9335,Porto Alegre,Alimentos,185.12,2022-03-22
+238,CLI1126,Belo Horizonte,Eletrônico,898.76,2023-01-03
+239,CLI9176,Porto Alegre,Móvel,898.54,2023-04-04
+240,CLI1853,São Paulo,Alimentos,271.47,2022-05-05
+241,CLI7812,São Paulo,Móvel,1472.25,2023-01-19
+242,CLI2858,Porto Alegre,Vestuário,349.96,2023-05-17
+243,CLI9335,Porto Alegre,Eletrônico,1319.77,2023-02-14
+244,CLI1659,São Paulo,Livros,,2023-07-26
+245,CLI7184,Florianópolis,Eletrônico,2393.94,2022-02-27
+246,CLI9837,São Paulo,Vestuário,713.89,2023-08-28
+247,CLI1711,Curitiba,Livros,228.36,2023-09-01
+248,CLI7371,São Paulo,Livros,372.62,2023-08-06
+249,CLI1430,Porto Alegre,Vestuário,528.75,2023-08-31
+250,CLI5471,São Paulo,Móvel,1239.35,2022-04-17
+251,CLI1444,São Paulo,Alimentos,254.02,2023-04-21
+252,CLI7340,Porto Alegre,Vestuário,280.11,2022-03-16
+253,CLI2988,Porto Alegre,Vestuário,428.39,2023-11-12
+254,CLI8527,Curitiba,Alimentos,205.47,2023-08-04
+255,CLI7201,Curitiba,Móvel,,2023-12-10
+256,CLI9094,Porto Alegre,Móvel,1142.55,2023-07-14
+257,CLI6236,Porto Alegre,Vestuário,,2023-11-28
+258,CLI9149,Belo Horizonte,Alimentos,133.6,2023-11-23
+259,CLI5186,Belo Horizonte,Eletrônico,1207.23,2023-01-20
+260,CLI4657,Curitiba,Eletrônico,,2023-09-18
+261,CLI3828,Porto Alegre,Alimentos,139.77,2023-05-17
+262,CLI7626,Belo Horizonte,Alimentos,133.7,2023-01-23
+263,CLI7812,São Paulo,Alimentos,228.44,2023-10-29
+264,CLI9725,Belo Horizonte,Livros,223.17,2023-11-08
+265,CLI1742,Florianópolis,Eletrônico,1508.4,2023-04-22
+266,CLI7865,São Paulo,Vestuário,653.43,2023-11-02
+267,CLI5757,Porto Alegre,Vestuário,474.12,2023-05-16
+268,CLI4150,Curitiba,Eletrônico,1222.01,2023-05-16
+269,CLI7381,São Paulo,Alimentos,191.9,2022-02-17
+270,CLI5186,Belo Horizonte,Móvel,787.9,2023-02-24
+271,CLI8140,São Paulo,Vestuário,570.55,2023-01-29
+272,CLI9835,Florianópolis,Móvel,1287.45,2022-06-03
+273,CLI6922,Porto Alegre,Alimentos,,2023-09-20
+274,CLI8292,Porto Alegre,Livros,344.62,2023-12-18
+275,CLI8734,Florianópolis,Eletrônico,2161.94,2023-06-17
+276,CLI9047,Porto Alegre,Eletrônico,1843.4,2022-02-27
+277,CLI3503,São Paulo,Alimentos,,2022-06-04
+278,CLI8147,Belo Horizonte,Livros,236.76,2023-02-28
+279,CLI3977,São Paulo,Móvel,1715.47,2023-08-19
+280,CLI3977,São Paulo,Vestuário,702.59,2023-08-21
+281,CLI7843,Belo Horizonte,Móvel,,2022-09-03
+282,CLI1444,São Paulo,Livros,359.62,2023-01-07
+283,CLI1320,São Paulo,Eletrônico,1728.08,2023-09-10
+284,CLI1430,Porto Alegre,Vestuário,305.7,2023-10-15
+285,CLI8311,Porto Alegre,Móvel,639.08,2022-02-26
+286,CLI7698,Florianópolis,Móvel,1486.51,2022-06-03
+287,CLI1508,São Paulo,Livros,337.46,2023-03-06
+288,CLI5743,Belo Horizonte,Móvel,841.87,2023-08-18
+289,CLI8022,São Paulo,Vestuário,648.68,2023-12-18
+290,CLI5678,Porto Alegre,Vestuário,292.12,2022-09-21
+291,CLI7455,São Paulo,Livros,,2023-04-19
+292,CLI3248,Belo Horizonte,Vestuário,287.31,2023-06-08
+293,CLI5803,Curitiba,Alimentos,155.57,2023-08-25
+294,CLI1659,São Paulo,Alimentos,205.74,2022-06-17
+295,CLI1409,Curitiba,Vestuário,360.04,2023-05-01
+296,CLI3948,Florianópolis,Eletrônico,1668.0,2022-03-16
+297,CLI5743,Belo Horizonte,Alimentos,166.22,2023-05-27
+298,CLI7381,São Paulo,Móvel,1276.22,2023-07-04
+299,CLI7626,Belo Horizonte,Alimentos,157.06,2023-06-06
+300,CLI7941,Florianópolis,Móvel,1021.57,2022-09-26
+301,CLI2341,São Paulo,Livros,477.52,2023-05-30
+302,CLI6697,Florianópolis,Eletrônico,2311.12,2023-04-08
+303,CLI4657,Curitiba,Vestuário,428.42,2023-12-10
+304,CLI4770,Belo Horizonte,Alimentos,194.93,2022-09-21
+305,CLI4505,São Paulo,Móvel,1595.68,2023-12-14
+306,CLI1693,Belo Horizonte,Livros,165.01,2023-06-23
+307,CLI6355,São Paulo,Vestuário,838.92,2023-12-17
+308,CLI2965,Belo Horizonte,Livros,162.72,2023-10-04
+309,CLI8564,São Paulo,Eletrônico,2121.85,2023-10-17
+310,CLI2535,Curitiba,Livros,325.73,2023-12-23
+311,CLI7201,Curitiba,Eletrônico,1605.75,2023-05-08
+312,CLI7505,Belo Horizonte,Livros,202.86,2023-04-03
+313,CLI4515,Porto Alegre,Vestuário,320.63,2022-08-28
+314,CLI8633,São Paulo,Eletrônico,2487.83,2023-08-14
+315,CLI7698,Florianópolis,Alimentos,,2023-11-12
+316,CLI7924,Curitiba,Móvel,1178.79,2022-10-22
+317,CLI9882,Porto Alegre,Vestuário,,2022-09-02
+318,CLI7487,Florianópolis,Alimentos,167.21,2023-01-04
+319,CLI8705,São Paulo,Vestuário,425.31,2023-11-28
+320,CLI7340,Porto Alegre,Móvel,1019.21,2022-05-21
+321,CLI7044,Porto Alegre,Livros,265.3,2023-01-27
+322,CLI7624,São Paulo,Móvel,1241.72,2023-01-27
+323,CLI8311,Porto Alegre,Vestuário,484.91,2023-03-12
+324,CLI7698,Florianópolis,Eletrônico,1446.7,2023-11-29
+325,CLI8705,São Paulo,Eletrônico,2118.65,2023-09-20
+326,CLI1126,Belo Horizonte,Móvel,725.25,2023-10-20
+327,CLI8022,São Paulo,Alimentos,193.66,2023-07-16
+328,CLI3045,Curitiba,Móvel,1135.63,2022-06-11
+329,CLI7371,São Paulo,Alimentos,259.99,2023-12-05
+330,CLI6507,São Paulo,Eletrônico,2888.07,2022-12-02
+331,CLI4878,Porto Alegre,Eletrônico,1694.64,2023-08-30
+332,CLI2929,Porto Alegre,Livros,219.64,2023-01-26
+333,CLI5552,Curitiba,Móvel,1194.48,2023-05-15
+334,CLI7154,Florianópolis,Vestuário,488.22,2023-10-04
+335,CLI6355,São Paulo,Livros,428.56,2023-07-15
+336,CLI5012,Curitiba,Vestuário,442.59,2023-04-15
+337,CLI2679,Curitiba,Livros,345.34,2023-05-15
+338,CLI7135,Florianópolis,Móvel,1485.59,2023-02-07
+339,CLI2180,Belo Horizonte,Livros,165.61,2023-05-21
+340,CLI4878,Porto Alegre,Livros,240.94,2023-08-27
+341,CLI4878,Porto Alegre,Alimentos,153.8,2023-02-19
+342,CLI4048,Porto Alegre,Móvel,1005.06,2022-03-15
+343,CLI6375,Belo Horizonte,Eletrônico,1509.46,2022-10-11
+344,CLI2887,Belo Horizonte,Vestuário,277.6,2023-07-05
+345,CLI6049,Florianópolis,Eletrônico,1560.29,2022-10-16
+346,CLI4582,Curitiba,Livros,226.47,2023-02-24
+347,CLI2139,Curitiba,Alimentos,219.73,2023-09-19
+348,CLI8359,Curitiba,Alimentos,125.54,2022-04-01
+349,CLI1475,São Paulo,Móvel,1053.33,2023-12-02
+350,CLI3948,Florianópolis,Móvel,984.71,2023-06-01
+351,CLI9149,Belo Horizonte,Alimentos,147.28,2023-05-25
+352,CLI4388,São Paulo,Vestuário,733.55,2023-09-04
+353,CLI4150,Curitiba,Eletrônico,1774.07,2023-12-16
+354,CLI2424,Curitiba,Vestuário,306.96,2023-08-05
+355,CLI4527,Curitiba,Alimentos,149.75,2023-01-20
+356,CLI9751,São Paulo,Alimentos,302.68,2022-07-24
+357,CLI7906,São Paulo,Móvel,1614.7,2023-11-09
+358,CLI7797,São Paulo,Eletrônico,1922.32,2023-06-07
+359,CLI3218,Florianópolis,Móvel,1239.52,2023-01-05
+360,CLI6912,Porto Alegre,Móvel,1105.04,2023-12-07
+361,CLI9835,Florianópolis,Eletrônico,2252.86,2023-11-23
+362,CLI4657,Curitiba,Alimentos,199.28,2023-09-24
+363,CLI7232,São Paulo,Eletrônico,2403.37,2022-08-14
+364,CLI3045,Curitiba,Livros,333.89,2023-08-13
+365,CLI6635,Curitiba,Livros,212.07,2023-01-21
+366,CLI8999,São Paulo,Livros,283.83,2023-06-09
+367,CLI7624,São Paulo,Eletrônico,3009.22,2023-10-17
+368,CLI5757,Porto Alegre,Móvel,737.27,2023-10-18
+369,CLI2424,Curitiba,Livros,254.68,2023-12-08
+370,CLI3977,São Paulo,Eletrônico,1719.52,2023-11-21
+371,CLI2130,Florianópolis,Móvel,1634.62,2023-06-04
+372,CLI3828,Porto Alegre,Móvel,1217.7,2023-06-02
+373,CLI6697,Florianópolis,Móvel,1538.95,2023-09-03
+374,CLI1508,São Paulo,Vestuário,698.86,2023-05-05
+375,CLI5742,Belo Horizonte,Móvel,591.15,2023-03-12
+376,CLI3091,São Paulo,Vestuário,432.16,2023-12-03
+377,CLI7044,Porto Alegre,Vestuário,490.64,2023-10-09
+378,CLI1508,São Paulo,Eletrônico,2918.15,2023-12-26
+379,CLI4788,São Paulo,Eletrônico,1935.56,2023-01-14
+380,CLI5186,Belo Horizonte,Vestuário,423.63,2023-09-23
