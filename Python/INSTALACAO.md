@@ -333,7 +333,6 @@ Se nada resolver, recomece o ambiente: `conda env remove -n curso-python` e repi
 | Data | Versão | Modificado por | Descrição |
 | ----------------- | ------- | ---------- | ---------------------------------- |
 | 27-10-2026 | 1.0 | Claude (a pedido de Eduardo Pécora) | Guia inicial de instalação do Python e Jupyter (Windows, macOS e Linux), em notebook |
-| 27-10-2026 | 1.1 | Claude (a pedido de Eduardo Pécora) | Convertido para Markdown (`INSTALACAO.md`); checagem separada em `verificar_instalacao.ipynb` |
 
 <hr>
 
